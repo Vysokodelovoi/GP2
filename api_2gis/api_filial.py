@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-API_KEY = "92b5f3b4-8cbc-457d-823a-af561b4e4de9"
+API_KEY = "***"
 CITY_ID = "4504222397630173"
 
 organizations = {
