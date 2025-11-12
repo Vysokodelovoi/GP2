@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-ACCESS_TOKEN = "vk1.a.WciHXwJkBtcR_Ilua3DXOTEOoR7XHZUa3KTvCKdxD5cN-C7ClOAftQYeWgMP3Nwaem9jmeqa3Ka8GdnX0-sBvngcSJTt9gx0NnYvfGzblMzbLfIHO37Cw_kzg8AGup8rB8-ig3LXJ5N5V4bRr3-pUelhXSo-v1bCe57_ER7T8NL6qTLgVyBqhZFExUvE4sk_usVm27NPoDjwQQ0X8hEMHQ"
+ACCESS_TOKEN = "***"
 OWNER_ID = -10095732
 VERSION = "5.199"
 
